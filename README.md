@@ -7,7 +7,7 @@ git clone https://github.com/Cyrille09/Guess-Number.git
 
 ### redirect to the project folder the below command
 
-cd Guessing-Number
+cd Guess-Number
 
 ### Download and install node.js
 
